@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raslarly
+- 👋 Hi, I’m @Razsk
 - 👀 I’m interested in computer science . I got some projects that I want to finish and publish before I die .
 - 🌱 I’m currently learning Python .
 - 💞️ I’m looking to collaborate on ...
